@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# ApexBooking Health - Doctor Appointment Booking App
+# Apex Healthcare - Doctor Appointment Booking App
 
 Welcome to ApexBooking Health! This is a Doctor Appointment Booking App designed to streamline the process of scheduling appointments with healthcare professionals. With MongoDB for flexible data handling, React and Ant Design for dynamic UI components, and Node.js with Express for a scalable server, ApexBooking Health offers a robust solution for both users and administrators.
 
