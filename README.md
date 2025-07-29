@@ -69,33 +69,3 @@ The application is deployed on Netlify and can be accessed at [ApexBooking Healt
    npm start
 
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to ApexBooking Health, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature-name`).
-3. Make your changes and commit them (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature/your-feature-name`).
-5. Create a new Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- [MongoDB](https://www.mongodb.com/)
-- [React](https://reactjs.org/)
-- [Ant Design](https://ant.design/)
-- [Node.js](https://nodejs.org/)
-- [Express](https://expressjs.com/)
-
-## Contact
-
-For any inquiries or support, please contact me at harismohanty8658gmail.com.
-
-Thank you for using ApexBooking Health!
-=======
-# Apex-Healthcare
->>>>>>> adb9de04503f0477195b6f09a38c2e7a68a12083
