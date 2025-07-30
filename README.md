@@ -12,10 +12,6 @@ Welcome to ApexBooking Health! This is a Doctor Appointment Booking App designed
 - **Intuitive Admin Panel**: Administrators have access to an intuitive admin panel for easy management of appointments and users.
 - **Real-Time Notifications**: The app incorporates a notification system to provide users with real-time updates regarding their appointments.
 
-## Deployment
-
-The application is deployed on Netlify and can be accessed at [ApexBooking Health](https://apex-booking.netlify.app).
-
 ## Installation
 
 ### Backend
